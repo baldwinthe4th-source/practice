@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
-import  "forge-std/Test.sol";
+import "forge-std/Test.sol";
 import "../src/HelloWorld.sol";
 
 contract CounterTest is Test {
